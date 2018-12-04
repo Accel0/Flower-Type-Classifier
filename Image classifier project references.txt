@@ -1,0 +1,13 @@
+# Reference : 
+1- https://discuss.pytorch.org/t/type-mismatch-on-model-when-using-gpu/11409
+#              
+2- https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html#load-data
+#              
+3- https://pytorch.org/docs/master/torch.html#torch.topk
+#              
+4- https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#PIL.Image.Image.thumbnail
+#              
+5- https://www.kaggle.com/kanncaa1/seaborn-tutorial-for-beginners
+#              
+6- https://pytorch.org/docs/master/torchvision/models.html
+7- https://pymotw.com/3/argparse/
