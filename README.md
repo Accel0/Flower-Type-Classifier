@@ -21,4 +21,4 @@ you can choose from ``` vgg19 densenet121 densenet201 ``` then the ``` --learnin
 
 4. After training the trained model will be saved depending on where you specified the ``` --save_dir ``` so be careful
 5. Go to predict.py to test your model on an image that you have and you want to check what type of flower it is ``` Python predict.py /users/path_to_image /users/path_to_model --gpu ```.
-6. Have fun with the model if you want to change anything refer to ** Step 3 ** no need to change the source code.
+6. Have fun with the model if you want to change anything refer to **Step 3** no need to change the source code.
