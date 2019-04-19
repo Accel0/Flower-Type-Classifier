@@ -14,7 +14,7 @@ This program is written in python so to run it you need to have these packages i
 8. **PIL**
 # Steps:
 1. **NN_model_init.py and train.py and predict.py need to be on the same folder!!!.**
-2. **The Neural network is not trained so you have to run train.py to train it, i dont recommend running on your own device, run it on AWS or google colab. **
+2. **The Neural network is not trained so you have to run train.py to train it, i dont recommend running on your own device, run it on AWS or google colab.**
 3. Type in your cmd ``` Python train.py /users/Floder_Images_used_for_training_the_Neural_network --save_dir /users/your_own_folder --arch vgg19 --learning_rate 0.001 --hidden_units 512 --epochs --gpu ```
 **Everything that starts with -- is optional you dont need to change it! but its ok if you do** the first thing you have to type after typing ``` train.py ``` is the location of the images that you will use to train the model, --save_dir is used for saving the trained model ``` --arch ``` is the archtype used to train
 you can choose from ``` vgg19 densenet121 densenet201 ``` then the ``` --learning_rate ``` is set to 0.001 for default no need to change it ``` --hidden_units ``` how many hidden units will be used ```--epochs ``` the number of epochs the model is going to train ``` --gpu ``` turns gpu training on so the model trains on the gpu.
