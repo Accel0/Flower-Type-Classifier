@@ -4,14 +4,14 @@ Flowers image classification project for classifying flower types
 
 # Requirements:
 This program is written in python so to run it you need to have these packages installed on your device
-1. **torch **
-2. **torchvision **
-3. **Numpy **
-4. **Matplotlib **
-5. **Seaborn **
-6. **Json **
-7. **Time **
-8. **PIL **
+1. **torch**
+2. **torchvision**
+3. **Numpy**
+4. **Matplotlib**
+5. **Seaborn**
+6. **Json**
+7. **Time**
+8. **PIL**
 # Steps:
 1. ** NN_model_init.py and train.py and predict.py need to be on the same folder!!! **
 2. ** The Neural network is not trained so you have to run train.py to train it, i dont recommend running on your own device, run it on AWS or google colab.
