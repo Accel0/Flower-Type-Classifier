@@ -1,5 +1,5 @@
 # AIPND
-** This project was made for the Udacity Nano degree AI Programming with Python **
+**This project was made for the Udacity Nano degree AI Programming with Python**
 Flowers image classification project for classifying flower types
 
 # Requirements:
