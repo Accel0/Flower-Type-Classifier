@@ -1,4 +1,4 @@
-# AIPND
+# Neural Network for classifying flower types using deep learning
 **This project was made for the Udacity Nano degree AI Programming with Python**
 Flowers image classification project for classifying flower types
 
